@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=854
+
+Less is More: A minimal color scheme.
+
+Set on a Black background w/ LightGray as normal text. Similar to a typical unix console.  Designed to work equally well on 8 or 16 colors, terminal or gui. 
+
+Based on Jeff Solomon's highlights @ http://www-vlsi.stanford.edu/~jsolomon/vim/
+Check out his syntax files. Nice improvements for C, Perl, Tcl, and others.
